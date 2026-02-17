@@ -1,0 +1,51 @@
+21:56:18.115 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@20e6c4dc: 4 ms
+21:56:18.120 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@bc0f53b: 0 ms
+22:30:16.913 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\durga\eclipse-workspace\OpencartV121\master.xml"
+22:30:17.192 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\durga\eclipse-workspace\OpencartV121\master.xml
+
+22:30:24.985 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting  TC001_AccountRegistrationTest *****
+22:30:25.129 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:30:25.789 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+22:30:25.791 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:30:29.617 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:30:29.661 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:42:10.442 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\durga\eclipse-workspace\OpencartV121\crossbrowsertesting.xml"
+22:42:10.879 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\durga\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+22:42:18.341 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting  TC001_AccountRegistrationTest *****
+22:42:18.716 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:42:19.799 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+22:42:19.804 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:42:21.986 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:42:22.076 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:42:29.185 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting  TC001_AccountRegistrationTest *****
+22:42:29.345 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:42:29.902 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+22:42:29.902 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:42:31.619 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:42:31.676 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:42:40.231 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting  TC001_AccountRegistrationTest *****
+22:42:40.369 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:42:40.837 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+22:42:40.837 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:42:42.519 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:42:42.569 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:45:02.618 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\durga\eclipse-workspace\OpencartV121\crossbrowsertesting.xml"
+22:45:03.062 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\durga\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+22:45:12.666 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting  TC001_AccountRegistrationTest *****
+22:45:13.030 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:45:13.565 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting  TC001_AccountRegistrationTest *****
+22:45:13.964 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:45:14.057 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+22:45:14.065 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:45:14.696 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+22:45:14.699 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:45:17.632 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:45:17.699 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:45:17.736 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:45:17.845 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:45:18.879 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting  TC001_AccountRegistrationTest *****

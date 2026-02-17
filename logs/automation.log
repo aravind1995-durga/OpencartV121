@@ -1,0 +1,13 @@
+19:56:36.260 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+19:56:36.301 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+19:56:38.520 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+19:56:40.394 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002 loginTest *****
+20:03:24.769 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\durga\eclipse-workspace\OpencartV121\crossbrowsertesting.xml"
+20:03:25.087 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\durga\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+20:03:25.444 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting  TC001_AccountRegistrationTest *****
+20:03:34.346 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting  TC001_AccountRegistrationTest *****
+20:03:34.361 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting  TC001_AccountRegistrationTest *****
+20:03:34.868 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:03:34.922 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
