@@ -21,6 +21,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 import org.apache.logging.log4j.Logger;
 
@@ -37,7 +38,8 @@ public class BaseClass {
 
 	@BeforeClass(groups= {"Sanity","Regression","Master"})
 	@Parameters({"os","browser"})
-	public void setup(String os, String br) throws IOException 
+//	public void setup(String os, String br) throws IOException 
+	public void setup(@Optional("Windows") String os, @Optional("chrome") String br) throws IOException
 	{
 
 		// Loading config.properties file
